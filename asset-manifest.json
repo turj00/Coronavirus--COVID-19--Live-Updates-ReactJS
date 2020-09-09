@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/css/main.a47927b4.chunk.css",
+    "main.js": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/js/main.d74c362f.chunk.js",
+    "main.js.map": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/js/main.d74c362f.chunk.js.map",
+    "runtime-main.js": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/js/runtime-main.940c9a92.js",
+    "runtime-main.js.map": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/js/runtime-main.940c9a92.js.map",
+    "static/js/2.e32fb41d.chunk.js": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/js/2.e32fb41d.chunk.js",
+    "static/js/2.e32fb41d.chunk.js.map": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/js/2.e32fb41d.chunk.js.map",
+    "index.html": "/Coronavirus--COVID-19--Live-Updates-ReactJS/index.html",
+    "precache-manifest.46f9a2454ba9fa8a7e17f6b024df1a74.js": "/Coronavirus--COVID-19--Live-Updates-ReactJS/precache-manifest.46f9a2454ba9fa8a7e17f6b024df1a74.js",
+    "service-worker.js": "/Coronavirus--COVID-19--Live-Updates-ReactJS/service-worker.js",
+    "static/css/main.a47927b4.chunk.css.map": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/css/main.a47927b4.chunk.css.map",
+    "static/js/2.e32fb41d.chunk.js.LICENSE.txt": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/js/2.e32fb41d.chunk.js.LICENSE.txt",
+    "static/media/Covid19_3.png": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/media/Covid19_3.d7265326.png",
+    "static/media/App.module.css": "/Coronavirus--COVID-19--Live-Updates-ReactJS/static/media/covid19_bk8.2ffdfbac.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.940c9a92.js",
+    "static/js/2.e32fb41d.chunk.js",
+    "static/css/main.a47927b4.chunk.css",
+    "static/js/main.d74c362f.chunk.js"
+  ]
+}
